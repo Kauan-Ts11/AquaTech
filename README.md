@@ -2,7 +2,7 @@
 
 ### SOBRE
 
-- Repositório que abriga o desenvolvimento das habilidades em HTML e CSS.
+- Repositório que abriga o desenvolvimento do Site Institucional AquaTech.
 
 #
 ### TECNOLOGIAS
